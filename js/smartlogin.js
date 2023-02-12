@@ -1,6 +1,7 @@
 // ========== validation session ==========
 if(correct() == false){
     window.stop();
+    window.location.href = "./index.html";
 }
 
 
